@@ -8,7 +8,7 @@ Este é um mini projeto em Node.js para gerenciar notas via terminal.
 ```sh
 node app.js add "Título da Nota" "Conteúdo da Nota"
 
-### Listar uma nota:
+### Adicionar uma nota:
 ```sh
 node app.js list
 
