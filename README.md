@@ -1,4 +1,4 @@
-# Gerenciador de Notas 📝
+# Gerenciador de notas 📝
 
 Este é um mini projeto em Node.js para gerenciar notas via terminal.
 
@@ -7,15 +7,15 @@ Este é um mini projeto em Node.js para gerenciar notas via terminal.
 ### Adicionar uma nota:
 ```sh
 node app.js add "Título da Nota" "Conteúdo da Nota"
-
+```
 ### Adicionar uma nota:
 ```sh
 node app.js list
-
+```
 ### Deletar uma nota:
 ```sh
 node app.js delete "Título da Nota"
-
+```
 ## 📌 Tecnologias usadas:
 Node.js
 Módulo fs (File System)
